@@ -1,0 +1,6 @@
+wandb/
+weights/
+Resources/
+__pycache__/
+results/
+latex.txt

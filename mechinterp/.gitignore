@@ -1,0 +1,5 @@
+output/
+Resources/
+wandb/
+weights/
+latex.txt
